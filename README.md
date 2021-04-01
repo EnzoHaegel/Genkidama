@@ -3,7 +3,7 @@ Application Android, jeu d'alcool avec questions aléatoires
 
 
 # Installation
-Allez dans "app" puis "release", vous retrouverez la liste des versions de Genkidama fonctionnelles, telechargez sur votre appareil android la version la plus récente de Genkidama_*.*.apk.
+Téléchargez Genkidama_1.2.apk disponible à la racine du repo GitHub.
 Une fois sur votre appareil, allez dans les téléchargements et clickez sur l'application, acceptez même si l'appareil ne va pas reconnaître le fabricant de l'app et vous mettre que c'est dangereux (je suis pas encore assez connu pour ne pas avoir ce msg).
 Lancez l'application :)
 
