@@ -1,16 +1,16 @@
 # Genkidama
 Application Android, jeu d'alcool avec questions aléatoires
-
-
+ 
+ 
 # Installation
 Téléchargez Genkidama_1.2.apk disponible à la racine du repo GitHub.
-Une fois sur votre appareil, allez dans les téléchargements et clickez sur l'application, acceptez même si l'appareil ne va pas reconnaître le fabricant de l'app et vous mettre que c'est dangereux (je suis pas encore assez connu pour ne pas avoir ce msg).
+Une fois sur votre appareil, allez dans les téléchargements et cliquez sur l'application, acceptez même si l'appareil ne va pas reconnaître le fabricant de l'app et vous mettre que c'est dangereux (je suis pas encore assez connu pour ne pas avoir ce msg).
 Lancez l'application :)
-
-Si vous trouvez n'importe quel bug ou fautes de frappes, n'hésitez pas à me contacter pour me le signaler dans l'onglet Issues de GitHub !
-
+ 
+Si vous trouvez n'importe quel bug ou fautes de frappe, n'hésitez pas à me contacter pour me le signaler dans l'onglet Issues de GitHub !
+ 
 # Versions
-
+ 
 01/04/2021 Version 1.2:
 Un joueur ne peut plus avoir 2 fois son nom dans une phrase.
 Changement de la gestion des noms dans les phrases.
