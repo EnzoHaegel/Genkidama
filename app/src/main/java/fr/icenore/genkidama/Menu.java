@@ -49,12 +49,12 @@ public class Menu extends AppCompatActivity {
                     name = Arrays.copyOf(name, name.length + 1);
                     name[name.length - 1] = nameInput.getText().toString();
                     nameInput.setText("");
-                    Button croix = new Button(getApplicationContext());
-                    croix.setLayoutParams(params);
-                    croix.setBackgroundResource(R.drawable.croix);
-                    croix.setTop(10);
-                    croix.setId(name.length);
-                    nameSupp.addView(croix);
+                    //Button croix = new Button(getApplicationContext());
+                    //croix.setLayoutParams(params);
+                    //croix.setBackgroundResource(R.drawable.croix);
+                    //croix.setTop(10);
+                    //croix.setId(name.length);
+                    //nameSupp.addView(croix);
                 }
                 list_player.setText("Liste des joueurs :\n" + String.join("\n", name));
             }
