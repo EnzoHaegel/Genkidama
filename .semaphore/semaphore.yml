@@ -12,4 +12,5 @@ blocks:
           commands:
             - sem-version java 11
             - checkout
+            - chmod +x gradlew
             - ./gradlew build
